@@ -16,9 +16,6 @@ int main(void) {
 
 	/* prints !!!Hello World!!! */
 
-	//hi man this is just for test my gitHub
-
-	//**************************
-
+	printf("hello gitHub!!");
 	return EXIT_SUCCESS;
 }
